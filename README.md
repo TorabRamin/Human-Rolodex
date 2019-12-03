@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Human Rolodex
+
+It's a simple React app.
+[Click here to visit](https://forkify.meetramin.com/)
+
+![](Screenshot.png)
+
 
 ## Available Scripts
 
