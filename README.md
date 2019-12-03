@@ -3,7 +3,7 @@
 It's a simple React app.
 [Click here to visit](https://forkify.meetramin.com/)
 
-![](Screenshot.png)
+![](screenshot.png)
 
 
 ## Available Scripts
