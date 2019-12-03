@@ -5,9 +5,9 @@ export const Card = props => (
   <div className="card-container">
     <img
       alt={props.monster.name}
-      src={`https://robohash.org/${props.monster.id}?set=set1`}
+      src={`https://robohash.org/${props.monster.id}?set=set5`}
     />
-    <h1>{props.monster.name}</h1>
+    <h2>{props.monster.name}</h2>
     <p>{props.monster.email}</p>
   </div>
 );

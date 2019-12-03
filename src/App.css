@@ -20,3 +20,19 @@
 .App-link {
   color: #09d3ac;
 }
+/* Body */
+@import url('https://fonts.googleapis.com/css?family=Bigelow+Rules|Poppins&display=swap');
+h1 {
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 6rem;
+  color: #0ccac4;
+  margin-bottom: 20px;
+}
+h2 {
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 10px;
+}
+p {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+}
