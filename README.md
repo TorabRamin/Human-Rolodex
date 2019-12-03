@@ -1,7 +1,7 @@
 ## Human Rolodex
 
 It's a simple React app.
-[Click here to visit](https://forkify.meetramin.com/)
+[Click here to visit](https://rolodex.meetramin.com/)
 
 ![](screenshot.png)
 
